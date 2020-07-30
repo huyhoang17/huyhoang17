@@ -28,5 +28,5 @@ More on [viblo.asia/u/phanhoang](https://viblo.asia/u/phanhoang)
 * [twitter/\_\_phanhoang__](https://twitter.com/__phanhoang__) 
 * [linkedin/phanhoang](https://www.linkedin.com/in/phanhoang)
 * [viblo.asia/phanhoang](https://viblo.asia/u/phanhoang)
-* ![](./assets/rika.png)
+* ![](./assets/rika.jpg)
 </td></tr></table>
