@@ -1,5 +1,9 @@
 ### Hi there 👋 🇻🇳🇻🇳🇻🇳
 
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=huyhoang17&show_icons=true&theme=tokyonight">
+</a>
+
 - Currently, I'm a Machine Learning Engineer, working on [Sun* Inc.](https://sun-asterisk.vn/) - a Digital Creative Studio. 
 
 > Make awesome things that matter.
@@ -28,5 +32,5 @@ More on [viblo.asia/u/phanhoang](https://viblo.asia/u/phanhoang)
 * [twitter/\_\_phanhoang__](https://twitter.com/__phanhoang__) 
 * [linkedin/phanhoang](https://www.linkedin.com/in/phanhoang)
 * [viblo.asia/phanhoang](https://viblo.asia/u/phanhoang)
-* ![](./assets/rika.jpg)
+* ![Imgur](https://i.imgur.com/K0oLrYv.jpg)
 </td></tr></table>
