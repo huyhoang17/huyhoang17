@@ -24,6 +24,7 @@
 * [Attention, attention, attention, ..!](https://viblo.asia/p/eW65GPJYKDO) - a blog post which explained Attention mechanism in Deep Learning - 2019-01-16
 * [Deploy Machine Learning model in production with Tensorflow Serving](https://viblo.asia/p/XL6lAvvN5ek) - 2020-01-20
 * [Faster-RCNN object detection algorithm for Nine-dash-line detection!](https://viblo.asia/p/bJzKmREOZ9N) - 2020-03-20
+* [Graph Neural Network - A literature review and applications](https://viblo.asia/p/6J3ZgP0qlmB) - 2020-08-26
 
 More on [viblo.asia/u/phanhoang](https://viblo.asia/u/phanhoang)
 </td><td valign="top" width="33%">
