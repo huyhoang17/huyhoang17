@@ -17,6 +17,7 @@
     - Blog: [Building a simple Recommender System for Viblo website](https://viblo.asia/p/YWOZrgLYlQ0)
 * [Visual_Embedding_Tutorial](https://github.com/huyhoang17/Visual_Embedding_Tutorial)
     - Blog: [Embedding Visualization with Tensorflow Projector](https://viblo.asia/p/924lJAAzZPM)
+* [A graph-based citation network for paper recommender engine](https://github.com/huyhoang17/graph-based-citation-network) - based-on the idea of [connectedpapers.com](https://www.connectedpapers.com/)
 </td><td valign="top" width="34%">
 
 ### On my blog
