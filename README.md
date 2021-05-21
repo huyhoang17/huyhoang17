@@ -12,7 +12,7 @@
 
 ### Recent projects & blog posts
 * [kuzushiji_recognition](https://github.com/huyhoang17/kuzushiji_recognition)
-    - Blog: [Building OCR module for Kuzushiji recognition](viblo.asia/p/v3m5wpngko7)
+    - Blog: [Building OCR module for Kuzushiji recognition](https://viblo.asia/p/V3m5WPngKO7)
 * [LDA_Viblo_Recommender_System](https://github.com/huyhoang17/LDA_Viblo_Recommender_System)
     - Blog: [Building a simple Recommender System for Viblo website](https://viblo.asia/p/YWOZrgLYlQ0)
 * [Visual_Embedding_Tutorial](https://github.com/huyhoang17/Visual_Embedding_Tutorial)
