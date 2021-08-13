@@ -4,10 +4,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=huyhoang17&show_icons=true&theme=tokyonight">
 </a>
 
-- Currently, I'm a Machine Learning Engineer, working on [Sun* Inc.](https://sun-asterisk.vn/) - a Digital Creative Studio. 
-
-- [Sun* AI Research Team](https://viblo.asia/o/sun-ai-research-team)
-
 > Make awesome things that matter.
 
 <table><tr><td valign="top" width="33%">
