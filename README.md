@@ -9,15 +9,15 @@
 <table><tr><td valign="top" width="33%">
 
 ### Recent projects & blog posts
-* [kuzushiji_recognition](https://github.com/huyhoang17/kuzushiji_recognition)
-    - Blog: [Building OCR module for Kuzushiji recognition](https://viblo.asia/p/V3m5WPngKO7)
-* [LDA_Viblo_Recommender_System](https://github.com/huyhoang17/LDA_Viblo_Recommender_System)
-    - Blog: [Building a simple Recommender System for Viblo website](https://viblo.asia/p/YWOZrgLYlQ0)
+* [LDA_Viblo_Recommender_System](https://github.com/huyhoang17/LDA_Viblo_Recommender_System) - 2018-09-14
+    - Blog: [Building a simple Recommender System for Viblo website](https://viblo.asia/p/YWOZrgLYlQ0) 
 * [Visual_Embedding_Tutorial](https://github.com/huyhoang17/Visual_Embedding_Tutorial)
-    - Blog: [Embedding Visualization with Tensorflow Projector](https://viblo.asia/p/924lJAAzZPM)
+    - Blog: [Embedding Visualization with Tensorflow Projector](https://viblo.asia/p/924lJAAzZPM) - 2018-10-16
+* [kuzushiji_recognition](https://github.com/huyhoang17/kuzushiji_recognition)
+    - Blog: [Building OCR module for Kuzushiji recognition](https://viblo.asia/p/V3m5WPngKO7) - 2020-03-20
+* [A graph-based citation network for paper recommender engine](https://github.com/huyhoang17/graph-based-citation-network) - based-on the idea of [connectedpapers.com](https://www.connectedpapers.com/) - 2020-10-13
 * [Table_Recognition_solution](https://github.com/huyhoang17/Table_Recognition_solution)
-    - Blog: [Table Recognition - Simple is better than complex](https://viblo.asia/p/Qbq5QBYLKD8)
-* [A graph-based citation network for paper recommender engine](https://github.com/huyhoang17/graph-based-citation-network) - based-on the idea of [connectedpapers.com](https://www.connectedpapers.com/)
+    - Blog: [Table Recognition - Simple is better than complex](https://viblo.asia/p/Qbq5QBYLKD8) - 2022-03-25
 </td><td valign="top" width="34%">
 
 ### On my blog
